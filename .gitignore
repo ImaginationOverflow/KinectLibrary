@@ -1,0 +1,7 @@
+*.cache
+*.suo
+*.user
+bin/
+obj/
+_ReSharper.Imaginect3D
+*.cachefile
