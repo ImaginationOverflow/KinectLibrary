@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KinectLibrary", "KinectLibrary\KinectLibrary.csproj", "{233C1A0C-E8CC-498A-9630-00714752D999}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imagination3DOldCode", "Imagination3DOldCode\Imagination3DOldCode.csproj", "{E537311F-6559-4992-A8D6-8C5FB150A257}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{233C1A0C-E8CC-498A-9630-00714752D999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{233C1A0C-E8CC-498A-9630-00714752D999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{233C1A0C-E8CC-498A-9630-00714752D999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{233C1A0C-E8CC-498A-9630-00714752D999}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E537311F-6559-4992-A8D6-8C5FB150A257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E537311F-6559-4992-A8D6-8C5FB150A257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E537311F-6559-4992-A8D6-8C5FB150A257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E537311F-6559-4992-A8D6-8C5FB150A257}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
